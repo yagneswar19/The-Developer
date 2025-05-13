@@ -8,7 +8,7 @@ body {
 h2 {
   color: #a81d81;
   font-size: 50px;
-  margin-bottom: 40px;
+   margin-bottom: 40px;
 
 }
 
@@ -23,11 +23,13 @@ h2 {
   flex-wrap: wrap;
   justify-content: center;
   gap: 40px;
+
 }
 
 .team-member {
   background: #4f4f4c;
-  border-radius: 10px;
+
+  border-radius: 20px;
   padding: 20px;
   width: 300px;
   text-align: center;
@@ -83,4 +85,7 @@ a.PortFolio_Link {
 
 a.PortFolio_Link:hover {
   background-color: #df7362;
+}
+.nav{
+  text-align: center;
 }
